@@ -97,7 +97,7 @@ Discord is a free app that combines the voice chat aspects of services like Skyp
 
 
 
-
+⭕REMEMBER WHEN EVER YOU  TRY TO TEST THAT BOT , MAKE SURE THAT YOU DID NOT NOT CLOSE THE REPLIT SERVER TAB , OTHERWISE IT WONT WORK  ⭕
 
           
 
