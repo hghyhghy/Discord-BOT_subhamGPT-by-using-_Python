@@ -1,6 +1,6 @@
 
 
-![Screenshot (35)](https://github.com/hghyhghy/Discord-BOT_subhamGPT-by-using-_Python/assets/140393712/cabf61de-02e5-4451-a7d6-e57d07ba9f95)
+![Screenshot (35)](https://github.com/hghyhghy/Discord-BOT_subhamGPT-by-using-_Python/assets/140393712/bbfd515e-0788-43fb-97a0-4064c61e8939)
 
 ✌️ THE BOT CREATED BY ME ✌️
 
