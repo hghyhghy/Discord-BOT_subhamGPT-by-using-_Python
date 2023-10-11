@@ -59,9 +59,9 @@ Discord is a free app that combines the voice chat aspects of services like Skyp
 
      ⭕⭕ NOTE ON THING BEFORE START CODING YOU HAVE TO DOWNLOAD TWO PACKAGES OF PYTHON OR MODULES FROM CMD⭕⭕
      
-❌ NO1 : pip install discord
+❌ NO1 :    🟡pip install discord🟡
 
-❌ NO2 : pip install  openai
+❌ NO2 :    🟡pip install  openai🟡
 
 ❌ OPEN CMD  WRITE THE UPPER LINE AND HIT ENTER .THOSE WILL AUTOMATICALLY INSTALLED IN YOUR COMPUTER 
 
