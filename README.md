@@ -52,6 +52,13 @@ Discord is a free app that combines the voice chat aspects of services like Skyp
                 🟡## >> https://discord.com/developers/applications  🟡
                
                🟡STEP4: AFTER THAT GO TO THE DOCUMENTATION SECTION   🟡
+
+               >> USE CMD AND ENTYER THOSE COMMAND 
+
+                🟡pip install discord🟡
+
+                  🟡pip install  openai🟡
+
               
                🟡AND THEN  CLICK ON GET STARTED BUTTON TO START  CREATING YOUR DISCORD BOT 🟡⏮️⏭️
 
