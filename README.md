@@ -1,4 +1,12 @@
-![image](https://github.com/hghyhghy/Discord-BOT_subhamGPT-by-using-_Python/assets/140393712/a619b7cb-4ae2-4a5e-9080-3924cecae96d)⏺️WHAT IS A BOT? ✌️✌️
+
+
+![Screenshot (35)](https://github.com/hghyhghy/Discord-BOT_subhamGPT-by-using-_Python/assets/140393712/cabf61de-02e5-4451-a7d6-e57d07ba9f95)
+
+✌️ THE BOT CREATED BY ME ✌️
+
+# CREATE _BOT _WITH _DISCORD_APP
+
+WHAT IS A BOT? ✌️✌️
 A bot is a software application that is programmed to do certain tasks. Bots are automated, which means they run according to their instructions without a human user needing to manually start them up every time. Bots often imitate or replace a human user's behavior. Typically they do repetitive tasks, and they can do them much faster than human users could.⏺️
 
 ⏺️WHAT IS DISCORD ?  ✌️✌️
@@ -23,12 +31,15 @@ Discord is a free app that combines the voice chat aspects of services like Skyp
 
                                 
                                 
-                                ♾️♾️https://replit.com/@hghyhghy/DiscordchatGPT#main.py♾️♾️
+♾️♾️https://replit.com/@hghyhghy/DiscordchatGPT#main.py♾️♾️
 
-                                🟡 Now we need to create  a repl with a python template 🟡
-                                🟡 Now  you need to visit the Discord website where we are creating our firts BOT🟡
-                                🟡👇THE LINK OF THAT PAGE IS BELOW 👇🟡
-                                🟡 https://discord.com/🟡
+🟡 Now we need to create  a repl with a python template 🟡
+
+🟡 Now  you need to visit the Discord website where we are creating our firts BOT🟡
+
+🟡👇THE LINK OF THAT PAGE IS BELOW 👇🟡
+
+🟡 https://discord.com/🟡
 
             🟡STEP1: LAND ON THE PAGE OF THE DISCORD WEBSITE 
             
@@ -44,39 +55,50 @@ Discord is a free app that combines the voice chat aspects of services like Skyp
               
                🟡AND THEN  CLICK ON GET STARTED BUTTON TO START  CREATING YOUR DISCORD BOT 🟡⏮️⏭️
 
-      🖐️ AFTER THAT GO TO  ♾️♾️https://replit.com/@hghyhghy/DiscordchatGPT#main.py♾️♾️ THIS WEBSITER AND  START CODING ON THE FILE WHICH IS CREATED IN PYTHON TEMPLATE  🖐️                
+🖐️ AFTER THAT GO TO  ♾️♾️https://replit.com/@hghyhghy/DiscordchatGPT#main.py♾️♾️ THIS WEBSITER AND  START CODING ON THE FILE WHICH IS CREATED IN PYTHON TEMPLATE  🖐️                
 
      ⭕⭕ NOTE ON THING BEFORE START CODING YOU HAVE TO DOWNLOAD TWO PACKAGES OF PYTHON OR MODULES FROM CMD⭕⭕
      
-          ❌ NO1 : pip install discord
-          ❌ NO2 : pip install  openai
-          ❌ OPEN CMD  WRITE THE UPPER LINE AND HIT ENTER .THOSE WILL AUTOMATICALLY INSTALLED IN YOUR COMPUTER 
+❌ NO1 : pip install discord
+
+❌ NO2 : pip install  openai
+
+❌ OPEN CMD  WRITE THE UPPER LINE AND HIT ENTER .THOSE WILL AUTOMATICALLY INSTALLED IN YOUR COMPUTER 
 
           🚫🚫 NOTE THAT IF YOU DO NOT INSTALL  THOSE YOU CANT PERFORM ANYTHING AND YOU WILL GET AN ERROR
 
                                              
                                ⏺️⏺️ NOW TO GIVE AN API I USE OPENAI PLATFORM TO ACCESS AN API FOR THIS BOT WHICH MAKES IT INTELLIGENT AND LOOKS LIKE CHATGPT ⏺️⏺️
 
-                               >>VISIT THE LINK 👉https://openai.com/👈
+>>VISIT THE LINK 👉https://openai.com/👈
 
-                               >> HIT LOG IN 
+>> HIT LOG IN 
 
-                               >> GO TO THE API SECTION 
+>> GO TO THE API SECTION 
 
-                               >> GO THE PLAYGROUND SECTION IN NAVBAR
+>> GO THE PLAYGROUND SECTION IN NAVBAR
 
-                               >>AND THEN SELECT MODEL AS YOUR WISH 
+>>AND THEN SELECT MODEL AS YOUR WISH 
 
-                              ♾️ https://platform.openai.com/playground♾️
+♾️ https://platform.openai.com/playground♾️
 
-                              >> SLECT VIEW CODE AND PASTE IT ON YOUR REPL FILE 
+>> SLECT VIEW CODE AND PASTE IT ON YOUR REPL FILE 
 
-                              >> HIT RUN AND YOU WILL SEE THOSE MESSAGES 👇👇
+>> HIT RUN AND YOU WILL SEE THOSE MESSAGES 👇👇
+>>
+>> ⚛️⚛️Logged on as (your given name while creating the bot)⚛️⚛️
+>>
 
-                            ![image](https://github.com/hghyhghy/Discord-BOT_subhamGPT-by-using-_Python/assets/140393712/87496a2d-406a-4c08-a332-277bb8335299)
+
+⭕ NOTE YOU HAVE TO TAKE THE SECRET KEY AND OPEN API KEY COPIED IN  YOUR COMPUTER TO USE IN THIS CASE ⭕
+
+## Now our discord BOT should be ready to deliver any information  . remember it is not the best , you can do a lot more things to it 
+
+
+
 
 
 
           
 
-♾️♾️✌️✌️👉👉👈👈
+♾️♾️✌️✌️ HAPPY CODING 👉👉👈👈
