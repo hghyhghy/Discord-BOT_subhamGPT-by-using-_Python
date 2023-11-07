@@ -25,13 +25,13 @@ Discord is a free app that combines the voice chat aspects of services like Skyp
 >  >>>>
 >  >>>> ⏭️  DONT KNOW HOW TO USE REPLIT  ⏮️
 
-     👉👉 JUST SEARCH REPLIT ON YOUR BROWSER AND THEN LOG IN TO YOUR REPLIT BY YOUR MAIL OR GITHUB👈👈
+👉👉 JUST SEARCH REPLIT ON YOUR BROWSER AND THEN LOG IN TO YOUR REPLIT BY YOUR MAIL OR GITHUB👈👈
 
-     👉👉 I am pesting my replit for this Discord BOT👈👈
+👉👉 I am pesting my replit for this Discord BOT👈👈
 
                                 
                                 
-♾️♾️https://replit.com/@hghyhghy/DiscordchatGPT#main.py♾️♾️
+       ♾️♾️https://replit.com/@hghyhghy/DiscordchatGPT#main.py♾️♾️
 
 🟡 Now we need to create  a repl with a python template 🟡
 
@@ -39,45 +39,52 @@ Discord is a free app that combines the voice chat aspects of services like Skyp
 
 🟡👇THE LINK OF THAT PAGE IS BELOW 👇🟡
 
-🟡 https://discord.com/🟡
+        🟡 https://discord.com/🟡
 
-            🟡STEP1: LAND ON THE PAGE OF THE DISCORD WEBSITE 
+  🟡STEP1: LAND ON THE PAGE OF THE DISCORD WEBSITE 
             
-             🟡 STEP2:  SELECT THE OPTION OPEN DISCORD ON YOUR BROWSER  🟡
+  🟡 STEP2:  SELECT THE OPTION OPEN DISCORD ON YOUR BROWSER  🟡
               
-              🟡 STEP3:  CHANGE THE SETTING AS YOU WANT  🟡
+  🟡 STEP3:  CHANGE THE SETTING AS YOU WANT  🟡
               
-               🟡STEP3:  VISIT THE DISCORD DEVELOPER PANEL PAGE TO DO THE CHANGES  🟡
+   🟡STEP3:  VISIT THE DISCORD DEVELOPER PANEL PAGE TO DO THE CHANGES  🟡
                
                 🟡## >> https://discord.com/developers/applications  🟡
                
-               🟡STEP4: AFTER THAT GO TO THE DOCUMENTATION SECTION   🟡
+  🟡STEP4: AFTER THAT GO TO THE DOCUMENTATION SECTION   🟡
 
-               >> USE CMD AND ENTYER THOSE COMMAND 
+  >> USE CMD AND ENTYER THOSE COMMAND 
 
-                🟡pip install discord🟡
+                   🟡pip install discord🟡
 
-                  🟡pip install  openai🟡
+                   🟡pip install  openai🟡
 
               
-               🟡AND THEN  CLICK ON GET STARTED BUTTON TO START  CREATING YOUR DISCORD BOT 🟡⏮️⏭️
+🟡AND THEN  CLICK ON GET STARTED BUTTON TO START  CREATING YOUR DISCORD BOT 🟡⏮️⏭️
 
-🖐️ AFTER THAT GO TO  ♾️♾️https://replit.com/@hghyhghy/DiscordchatGPT#main.py♾️♾️ THIS WEBSITER AND  START CODING ON THE FILE WHICH IS CREATED IN PYTHON TEMPLATE  🖐️                
+  🖐️ AFTER THAT GO TO  ♾️♾️
+  
+                  https://replit.com/@hghyhghy/DiscordchatGPT#main.py
+  
+  ♾️♾️ THIS WEBSITER AND  START CODING ON THE FILE WHICH IS CREATED IN PYTHON TEMPLATE  🖐️                
 
-     ⭕⭕ NOTE ON THING BEFORE START CODING YOU HAVE TO DOWNLOAD TWO PACKAGES OF PYTHON OR MODULES FROM CMD⭕⭕
+⭕⭕ NOTE ON THING BEFORE START CODING YOU HAVE TO DOWNLOAD TWO PACKAGES OF PYTHON OR MODULES FROM CMD⭕⭕
      
-❌ NO1 :    🟡pip install discord🟡
-
-❌ NO2 :    🟡pip install  openai🟡
+          ❌ NO1 :    🟡pip install discord🟡
+          
+          ❌ NO2 :    🟡pip install  openai🟡
 
 ❌ OPEN CMD  WRITE THE UPPER LINE AND HIT ENTER .THOSE WILL AUTOMATICALLY INSTALLED IN YOUR COMPUTER 
 
-          🚫🚫 NOTE THAT IF YOU DO NOT INSTALL  THOSE YOU CANT PERFORM ANYTHING AND YOU WILL GET AN ERROR
+🚫🚫 NOTE THAT IF YOU DO NOT INSTALL  THOSE YOU CANT PERFORM ANYTHING AND YOU WILL GET AN ERROR
 
                                              
-                               ⏺️⏺️ NOW TO GIVE AN API I USE OPENAI PLATFORM TO ACCESS AN API FOR THIS BOT WHICH MAKES IT INTELLIGENT AND LOOKS LIKE CHATGPT ⏺️⏺️
+⏺️⏺️ NOW TO GIVE AN API I USE OPENAI PLATFORM TO ACCESS AN API FOR THIS BOT WHICH MAKES IT INTELLIGENT AND LOOKS LIKE CHATGPT ⏺️⏺️
 
->>VISIT THE LINK 👉https://openai.com/👈
+>>VISIT THE LINK 👉
+>>https://openai.com/
+>>
+>>👈
 
 >> HIT LOG IN 
 
